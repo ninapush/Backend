@@ -13,6 +13,7 @@ npm install
 ```
 
 Configuring the file .env.local 
+
 PORT is 1984 by default but you can. if you do please config your frontend to be 1984
 FRONTEND_URI is localhost:3000 by the default of nextjs, this will handle come cors issue. if it has been change please change according
 JWT_SECRET was a random string, you are welcome to change
